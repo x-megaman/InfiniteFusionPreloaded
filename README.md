@@ -1,2 +1,2 @@
-# InfiniteFusionPreloaded
-This contains the tool needed to install the Preloaded Sprites for PIF
+# megaman's Preloaded Tool
+This repo is used just to store Releases for the tool developed.
