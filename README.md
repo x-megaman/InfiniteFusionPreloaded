@@ -1,7 +1,7 @@
 # megaman's Preloaded Tool
 <br />
 
-**Upcoming Changes**
+**Upcoming Updates**
 <br />
 * First Time Setup
 * Ability to install only custom or only auto gens only
