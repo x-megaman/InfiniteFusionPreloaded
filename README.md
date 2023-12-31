@@ -2,10 +2,15 @@
 <br />
 **Upcoming Changes:**
 1. First Time Setup
+<br />
 2. Ability to install only custom or only auto gens only
+<br />
 3. Add date of when last sprite repo update was made
+<br />
 4. Add date of when the last time you updated the sprites were made
+<br />
 5. Ability to update sprites as they come out. Currently the tools deletes your Battlers and CustomBattlers folder then grabs all of the sprites. This change will require for you to do first time setup, then afterwards it can just pull the latest sprites like the game currently updates the game.  
+<br />
 <br />
 **Current Platform Limitations:**
 1. Windows only for now
