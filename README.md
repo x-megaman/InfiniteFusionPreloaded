@@ -1,4 +1,4 @@
-# megaman's Preloaded Tool
+# Pokemon Infinite Fusion Sprite Installer
 <br />
 
 **Upcoming Updates**
