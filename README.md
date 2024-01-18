@@ -1,5 +1,5 @@
 # Pokemon Infinite Fusion Sprite Installer
-<br />
+- Developed by: megaman.
 
 **Upcoming Updates**
 <br />
