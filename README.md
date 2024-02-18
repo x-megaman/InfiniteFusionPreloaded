@@ -1,5 +1,8 @@
 # Pokemon Infinite Fusion Installer
-- Developed by: megaman.
+- Developed by: megaman [Tech Manager for Pokemon Infinite Fusion]
+
+**Complete Guide + Videos**:
+- [Google Doc](https://docs.google.com/document/d/1sU-xZYw5cWMRmNyNbaFqfJZodaahZYs5Bv5jqnnqLeE/edit#heading=h.b67hha4nbt5i)
 
 **Features**:
 <br />
@@ -15,6 +18,10 @@
 - Installing the Auto Gen Sprites Only
 - Will let you know when new custom and auto gen sprites are released that you haven't installed yet
 <br />
+
+**Preloaded**
+- Go to settings to Enabled Preloaded
+- The checkbox will validate your sprites before enabling the checkbox to see if you have the correct setup.
 
 **Current Platform Limitations:**
 <br />
