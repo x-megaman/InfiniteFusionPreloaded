@@ -52,9 +52,96 @@ Version 6.0.1:
 - Fixed the Regitablet not triggering
 \n
 Version 6.0: Major Content Update!
-- Added 41 new Pokémon (46 including forms)
-- Fusion data is now calculated dynamically
-- Added new post-game questline for Necrozma
-- Completely remade the Sealed Chamber maps and added new puzzles for the Regi trio
-- Added new Regi triple fusion
-- And more! Will post changelog when Frogman reuploads
+New Pokemon
+- Added Phantump quest in Goldenrod hotel
+- Added prisms for Necrozma quest in several caves
+- Added postgame Necrozma questline starting at Lavender Tower
+- Added fused Regirock, Regice, Registeel encounters in Sealed chamber
+- Added new underwater temple area to replace the old Regigiagas sealed chamber
+- Added new regi triple fusion
+- Added fossil maniac battle in Saffron City to obtain the Sail or Jaw fossil
+- Added Carvanha quest in Fuchsia hotel
+- Added Oricorio quest in Pewter City
+- Added Stufful static encounter in Saffron city
+- Changed johto daycare-egg to Rockruff
+- Added Rockruff egg in secret garden
+- Added Goomy egg on Route 15
+- Added Noibat egg in Rock Tunnel
+- Added Hawluch egg in Saffron City
+- Added Swablu egg on Route 23
+- Added Snorunt egg in Seafoam Islands
+- Added wild Oricorio encounters in National Park (all forms)
+- Added wild Oricorio encounters in Sevii Island (different form for each island)
+- Added wild Venipede/Whirlipede encounters in Safari Zone (night)
+- Added wild Carvanha encounter in Safari Zone
+- Added wild Sharpedo encounter in Sevii Islands
+- Added wild Phantump encounter in Ilex Forest
+- Added wild Cacnea encounter in Safari Zone
+- Added wild Sableye encounter to Mt. Moon and Rock Tunnel
+- Added wild Mareanie encounter in Chrono Island (fishing)
+- Added wild encounters for ice cavern (Swinub, Piloswine, Snorunt, Glalie)
+- Added possible Sableye encounter in waterfall cave
+- Added ice puzzle in Ice mountains cave with Froslass static encounter
+- Added basement to Brine road sunken ship with static Dhelmise encounter
+- Added random Trubbish encounters when checking trashcans
+- Added random Sandygast encounters when destroying sandcastles
+- Added Sail Fossil and Jaw Fossil to possible rock smash items
+\n
+System
+
+- Improved loading speed for dynamic version
+- Added message when completing a quest
+- Added basic level caps option
+\n
+Fusion
+
+- All fusion data is now calculated dynamically from the base Pokémon
+- Fusion growth rate now uses the lowest of both instead of being harcoded to medium
+- Removed all type exceptions for fusions except for Normal/Flying Pokémon
+- When a Pokemon head's 1st type is the same as the body's 2nd type, the fusion will now use the body's 1st type as its 2nd type instead of becoming mono-type
+- Added music after fusion animation
+- Made it possible to pick whether to evolve the body or head if both can evolve at the same time
+\n
+Pokedex and Sprites
+
+- Sprites select page now opens automatically when registering a new Pokemon to the pokedex
+- Pokedex is now shown after fusing, evolving, hatching, and reversing
+- Alt sprites page now opens on the currently selected sprite if it's been manually selected by the player
+- Added forms sprites select option in Pokedex for Necrozma (and eventual Pokemon with multiple battle forms)
+- Missing base sprites can now get automatically downloaded
+- Repositioned all Pokemon sprites for battles
+- Added shadows to enemy Pokemon in battles
+- Individual Pokemon can now have up to 62 alt sprites
+\n
+Graphics
+
+- Updated Koga's overworld sprite
+- Changed outside appearance of route 5 daycare
+- Added several missing item icons
+\n
+Miscellaneous Gameplay
+
+- Bike is no longer needed for sky pillar
+- Nerfed mankey paw money loop
+- Having a mareanie or toxapex fusion in your team now scares off the corsolas in the sevii island
+- Jasmine now gives a Mareanie instead of Mareanie doll
+- Added poison jab tm in rock tunnel
+- Added cardboard tyrantrum fight in Goldenrod mall
+- Added Linking Cord to Radio tower quiz prizes
+- Strength HM is now obtained directly after waking the Snorlax on Route 12
+- Made Mimikyu's puzzle more straightforward
+- Removed moves that are no longer unobtainable from special move tutors
+- Made it impossible to go under bond bridge (was too buggy)
+- Remade the first floor of Seafoam Islands
+- Added Scald TM in Ember Spa
+- Moved network chip item to Treasure beach in the sevii islands
+\n
+Bugfixes
+
+- Fixed head species not being registered in Pokedex after unfusing
+- Fixed rival duplication glitch in Silph Co.
+- Fixed resizing issue causing half pixels in battle sprites
+- Fixed nightime battle backgrounds not displaying corectly
+- Added missing battle transitions for Agatha and Kurt
+- Fixed music not resuming after fusing from PC
+- Fixed various tiling issues
