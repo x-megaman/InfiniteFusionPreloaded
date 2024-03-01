@@ -4,6 +4,7 @@ Version 6.0.5:
 - Moved power plant key and ice pick to after Giovanni
 - Fixed Rockruff and Lycanroc Sprites
 - Added the file: Graphics/Characters/silhouette.png
+- New saves will have a warning looking at Randomizer Settings from Update Man.
 \n
 Version 6.0.4:
 - Removed trash cans from pallet town
