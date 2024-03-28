@@ -1,1 +1,1 @@
-We found a small bug that blocks app installer updates. Rerun InfiniteFusionSetup.bat to fix if installed before 3/28/24. The fix is included in new installs.
+Not urgent. We found a small bug that blocks app installer updates. Rerun InfiniteFusionSetup.bat to fix if installed before 3/28/24. The fix is included in new installs.
