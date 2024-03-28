@@ -1,3 +1,67 @@
+Version 6.1.0:
+New Pokémon
+
+-	Added Meloetta (Aria and Pirouette form), Cresselia and Bruxish
+-	- Meloetta changes form when Relic Song is used, either in battles or as a field move
+-	Gave Ultra Necrozma its own dex entry
+\n
+Gameplay
+
+-	Added new questline starting in Saffron City for obtaining Meloetta
+-	Added new questline starting in Lavender Town for obtaining Cresselia and Darkrai
+-	Added Sleeping bag item to sleep anywhere
+-	Added Mt. Moon summit and observatory
+-	"Changed the method for obtaining Mew. It is now obtained by finding constellations at the observatory"
+-	Added New Moon Island, Full moon island, Halfmoon Island
+-	Buying black market Pokémon now removes more karma
+\n
+Pokédex improvements
+
+-	Some fusions now have custom Pokédex entries.
+-	Custom entries text appear with a green tint in the pokedex
+-	Replaced the ribbon screen in the summary screen by the pokedex
+-	Added a filter to show only caught Pokémon in the Pokédex
+\n
+System
+
+-	Added option to swap newly caught Pokémon with a Pokémon in the party
+-	Head & Body species are now displayed on the summary screen
+-	Added days of the week
+-	Made the speed up button a hold button by default
+-	Added an option to revert speed-up to a toggle
+-	Added an option to set the speed for the hold button
+-	Moved nickname option down in pokemon party screen
+-	Wonder trade OTs now use the sprite's credits
+\n
+Graphics
+
+-	Updated and cleaned up several item icons
+-	Added more custom Pokemon eggs
+\n
+Game modes
+
+-	Updated modern mode (Thank Tomate)
+-	Added new Expert game mode that can be picked at the start of the game (beta version)
+-	Added descriptions of each game mode when starting a new game
+-	Moved single species game mode to experimental options menu
+-	Randomized items now always use the mapped method
+\n
+Misc
+
+-	Added an NPC on the top floor of Pokecenters to export your team for Pokémon Showdown
+-	Added links to WIki and the official Discord in the game's main menu
+\n
+Bugfixes
+
+-	Fixed Pokemon sprite not updating right away after changing the sprite from the summary screen
+-	Jirachi dream sequence now sends the player back to the hotel instead of their house in pallet town
+-	Removed Trubbish encounters from Vermillion gym trashcan puzzle
+-	Fixed missing music in Safari Zone
+-	Fixed head Pokémon not being registered in Pokedex after unfusing
+-	Fixed Pikachu using its anime cry
+-	Fixed Pokemon stats staying lowered after Jirachi event
+-	Various map fixes
+\n
 Version 6.0.5:
 - Added notices when opening the game about authentic download sources
 - Updated the ReadMe file
