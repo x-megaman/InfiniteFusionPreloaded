@@ -2,7 +2,7 @@ Version 6.1.1:
 
 - Fixes the issue where defusing Pokemon returned random Pokemon
 - Fixed all game modes being unlocked from the start
-- Added hint for MArowake in Meloetta Quest
+- Added hint for Marowak in Meloetta Quest
 - Fixed bug when player loses to Mew
 \n
 Version 6.1.0:
