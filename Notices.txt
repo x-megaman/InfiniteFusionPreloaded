@@ -1,1 +1,1 @@
-If updating to 6.1.1 is returning an error, rerun InfiniteFusionSetup.bat to get the fix and update the game again. The fix is included in new installs.
+v6.1.1 is out now! Report any issues in #tech-support in Discord and Enjoy!
