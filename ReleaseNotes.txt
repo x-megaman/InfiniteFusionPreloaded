@@ -1,6 +1,8 @@
 Version 6.1.2:
 
 - Fixed the crash when using the Up/Down Arrows through the Pokedex on the Alt Sprites page
+- To fix the crash for now, when using up/down arrows, the cursor will start at the 1st sprite, not the sprite you selected.
+- Fixed various maps.
 \n
 Version 6.1.1:
 
