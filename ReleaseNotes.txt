@@ -68,6 +68,7 @@ Bugfixes
 - Fixed Pikachu using its anime cry
 - Fixed Pokemon stats staying lowered after Jirachi event
 - Various map fixes
+- Fixed Lycanroc cry
 \n
 Version 6.0.5:
 - Added notices when opening the game about authentic download sources
