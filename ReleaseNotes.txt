@@ -1,10 +1,10 @@
 Version 6.1.2:
 
-- Fixes the crash when using up/down arrow keys in the Pokedex to switch on alt sprite page.
+- Fixed the crash when using the Up/Down Arrows through the Pokedex on the Alt Sprites page
 \n
 Version 6.1.1:
 
-- Fixes the issue where defusing Pokemon returned random Pokemon
+- Fixed the issue where defusing Pokemon returned random Pokemon
 - Fixed all game modes being unlocked from the start
 - Added hint for Marowak in Meloetta Quest
 - Fixed bug when player loses to Mew
