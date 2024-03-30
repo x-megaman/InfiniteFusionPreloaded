@@ -1,3 +1,7 @@
+Version 6.1.2:
+
+- Fixes the crash when using up/down arrow keys in the Pokedex to switch on alt sprite page.
+\n
 Version 6.1.1:
 
 - Fixes the issue where defusing Pokemon returned random Pokemon
