@@ -1,3 +1,10 @@
+Version 6.1.2 +:
+(This was a minor addition to 6.1.2)
+- Fixed Map crash on the Meloetta Quest
+- Fixed Vermillion City invisible sign
+- Fixed missing trainer in expert mode
+\n
+
 Version 6.1.2:
 
 - Fixed the crash when using the Up/Down Arrows through the Pokedex on the Alt Sprites page
@@ -223,3 +230,10 @@ Bugfixes
 - Added missing battle transitions for Agatha and Kurt
 - Fixed music not resuming after fusing from PC
 - Fixed various tiling issues
+\n
+Credits
+
+- Thanks to HypnoToad aka Frogman aka Frogzilla aka Chardub aka Creator of the Game
+- Thanks to Kiwi for Launcher Button Artwork
+- Credits to Warmaker for App Installer update testing
+- Credits to Ernesto for being in the future
