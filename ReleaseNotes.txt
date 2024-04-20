@@ -1,3 +1,12 @@
+Version 6.1.4:
+- Renamed Modern Mode to Remix Mode
+- Fixed Missing Cool Trainer error
+- Automatically sets player to walking for Ilex Forest Musician
+- Fixed Lycanroc's hidden ability not being in game
+- Setup repo for Custom Dex Entries
+- Ember Spa now hatches egg when idle
+- Fixed Ecruteak City and various other map fixes.
+\n
 Version 6.1.3:
 - Fixed Map crash on the Meloetta Quest
 - Fixed Vermillion City invisible sign
