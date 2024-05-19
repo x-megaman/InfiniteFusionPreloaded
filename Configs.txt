@@ -1,0 +1,6 @@
+AppVersion:2.9.8.2
+GameVersion:6.1.4
+GameUpdate:false
+MonthlyMessage:Sprite Pack 100 is out now! The game will auto install them for you, unless you are on preloaded.
+MonthlyConfig:false
+Notices:Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
