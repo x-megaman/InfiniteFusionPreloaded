@@ -1,3 +1,4 @@
+Config:1
 AppVersion:2.9.8.2
 GameVersion:6.1.4
 GameUpdate:false
