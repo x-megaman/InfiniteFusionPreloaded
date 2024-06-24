@@ -3,7 +3,7 @@ AppVersion:2.9.8.3
 GameVersion:6.1.4
 GameUpdate:false
 MonthlyMessage:5/31/24 - Sprite Pack 101 is out now! The game will auto install them for you, unless you are on preloaded.
-MonthlyConfig:true
+MonthlyConfig:false
 Notices:Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
 Holiday:false
 GameSize:690 MB
