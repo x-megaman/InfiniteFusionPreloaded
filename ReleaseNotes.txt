@@ -1,50 +1,57 @@
+Version 6.2.1:
+- Fixed PokeRadar going over UI
+- Fixed Hidden Abilities maps
+- Fixes clothes resetting after loading savefile without a hat
+- Fixes broken regi ice/rock door
+\n
+
 Version 6.2.0:
 Player character	
--	Updated the player character's sprites
--	Updated the surfing base and dive sprites - now changes depending on the Pokémon using the move
--	Added a special sprite for when the player is surfing using the Surfboard instead of Surf
--	Made it possible to set the player's skin color and hair color at the start of a game
--	Improved the underwater effect while diving
+- Updated the player character's sprites
+- Updated the surfing base and dive sprites - now changes depending on the Pokémon using the move
+- Added a special sprite for when the player is surfing using the Surfboard instead of Surf
+- Made it possible to set the player's skin color and hair color at the start of a game
+- Improved the underwater effect while diving
 \n
 Gameplay	
--	Abilities are now determined by the Pokemon themselves rather than the species when fusing
--	- ie, You now get to pick between the abilities of the two Pokémon you're fusing, no matter the fusion order
--	Added an additional fight on top of the Dept. Store during the Necrozma quest
--	Roaming legendaries now cause weather effects when they're on roaming on the current map
--	Renamed "Tracker" item to "Weather tracker"
--	Removed vermillion city lighthouse quest
--	Replaced static Flygon on Kindle road by egg
--	Added Overheat TM in Mt. Ember
--	Teleporting to Mt. Silver now takes you to the base of the mountain instead of the start of the road
+- Abilities are now determined by the Pokemon themselves rather than the species when fusing
+- - ie, You now get to pick between the abilities of the two Pokémon you're fusing, no matter the fusion order
+- Added an additional fight on top of the Dept. Store during the Necrozma quest
+- Roaming legendaries now cause weather effects when they're on roaming on the current map
+- Renamed "Tracker" item to "Weather tracker"
+- Removed vermillion city lighthouse quest
+- Replaced static Flygon on Kindle road by egg
+- Added Overheat TM in Mt. Ember
+- Teleporting to Mt. Silver now takes you to the base of the mountain instead of the start of the road
 \n
 Town map	
--	Updated the town map graphics
--	The player's current location is now displayed on the town map or when using Fly/Teleport
--	Johto and Sevii Islands are now hidden from the Town Map until first visited
+- Updated the town map graphics
+- The player's current location is now displayed on the town map or when using Fly/Teleport
+- Johto and Sevii Islands are now hidden from the Town Map until first visited
 \n
 Randomizer	
--	Added an option to exclude legendaries from regular encounters randomizer
--	Adds option for randomized starters to always be 1st-stage Pokémon
--	Wild legendaries always randomize into legendaries in randomizer
+- Added an option to exclude legendaries from regular encounters randomizer
+- Adds option for randomized starters to always be 1st-stage Pokémon
+- Wild legendaries always randomize into legendaries in randomizer
 \n
 System	
--	Made it possible to set the difficulty from the options menu.
--	The difficulty can no longer only be changed down. The difficulty displayed in the Hall of Fame is the lowest difficulty that has been selected during the playthrough.
--	Difficulty and game mode are now displayed on the Continue screen
--	Moved Expert mode to the experimental options menu
--	Moved Reversed mode to the experimental options menu
--	Updated the battle command buttons
--	Added on option to set the device that you're playing on in the options menu which disables unsupported features on mobile
--	Implemented "temp" sprites: Sprites that are only considered main sprites for as long as there are no others custom sprites (internal)
+- Made it possible to set the difficulty from the options menu.
+- The difficulty can no longer only be changed down. The difficulty displayed in the Hall of Fame is the lowest difficulty that has been selected during the playthrough.
+- Difficulty and game mode are now displayed on the Continue screen
+- Moved Expert mode to the experimental options menu
+- Moved Reversed mode to the experimental options menu
+- Updated the battle command buttons
+- Added on option to set the device that you're playing on in the options menu which disables unsupported features on mobile
+- Implemented "temp" sprites: Sprites that are only considered main sprites for as long as there are no others custom sprites (internal)
 \n
 Bug fixes	
--	Fixed pokeradar info being obscured in dark caves
--	Fixed issue with Necrozma quest not completing
--	Fixed issue causing some legendaries to not respawn
--	Fixed bug causing held items to disappear when swapping out a Pokémon after capture
--	Fixed some blurry tiles on SS Anne deck
--	Fixes issues with Regi puzzle hints
--	Fixed missing battle bases in Elite 4 fights
+- Fixed pokeradar info being obscured in dark caves
+- Fixed issue with Necrozma quest not completing
+- Fixed issue causing some legendaries to not respawn
+- Fixed bug causing held items to disappear when swapping out a Pokémon after capture
+- Fixed some blurry tiles on SS Anne deck
+- Fixes issues with Regi puzzle hints
+- Fixed missing battle bases in Elite 4 fights
 \n
 Version 6.1.4:
 - Renamed Modern Mode to Remix Mode
