@@ -1,6 +1,6 @@
 ConfigVersion:1
 AppVersion:2.9.8.7
-GameVersion:6.2.0
+GameVersion:6.2.1
 GameUpdate:true
 MonthlyMessage:5/31/24 - Sprite Pack 101 is out now! The game will auto install them for you, unless you are on preloaded.
 MonthlyConfig:false
