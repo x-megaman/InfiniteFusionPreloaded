@@ -1,3 +1,10 @@
+Version 6.2.2:
+- Fixed ability to fish while surfing
+- Fixes wrong backpack color on red clothes sprite
+- Fixed player sprite layer issue when starting battles
+- Fixed Ability capsules not changing the ability
+- Fixed fishing sprite offsets
+\n
 Version 6.2.1:
 - Fixed PokeRadar going over UI
 - Fixed Hidden Abilities maps
