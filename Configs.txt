@@ -7,5 +7,5 @@ MonthlyConfig:true
 Notices:v6.2.2 is out now! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
 Holiday:false
 GameSize:690 MB
-CustomSpriteSize:150,585
-PreloadedSize:~2.79 GB of 378,410
+CustomSpriteSize:150,569
+PreloadedSize:~2.79 GB of 378,385
