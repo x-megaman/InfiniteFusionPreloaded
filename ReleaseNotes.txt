@@ -4,6 +4,9 @@ Version 6.2.2:
 - Fixed player sprite layer issue when starting battles
 - Fixed Ability capsules not changing the ability
 - Fixed fishing sprite offsets
+- Fixes roaming weather appearing even when legendaries have been caught
+- Fixed wrong starter trade in Cerulean
+- Fixed default dive base sprite
 \n
 Version 6.2.1:
 - Fixed PokeRadar going over UI
