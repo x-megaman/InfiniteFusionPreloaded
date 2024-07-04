@@ -7,6 +7,16 @@ Version 6.2.2:
 - Fixes roaming weather appearing even when legendaries have been caught
 - Fixed wrong starter trade in Cerulean
 - Fixed default dive base sprite
+- Gave Cooltrainer a surfboard
+- Random map changes + Meloetta now a self-fusion
+- Ecruteak chairs
+- Added checks that prevent aliasing a method if the alias method already exists, fixed Symbiosis not working properly for opponents
+- Eusine fix
+- Fixes player becoming invisible while playing pokeflute
+- Fixes displaced hat/hair in pokemarts
+- Flipped Snorlax angle
+
+
 \n
 Version 6.2.1:
 - Fixed PokeRadar going over UI
