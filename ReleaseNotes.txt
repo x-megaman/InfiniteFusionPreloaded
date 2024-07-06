@@ -1,3 +1,10 @@
+Version 6.2.3:
+- Fixed Ability Ball bugs and evolving a Pokémon with an HA keeps their HA now
+- Adds missing egg sprites
+- Fixed Brock's battle transitions
+- Fixed wearable sprite offset and layering issues when auto scrolling the map
+\n
+
 Version 6.2.2:
 - Fixed ability to fish while surfing
 - Fixes wrong backpack color on red clothes sprite
@@ -15,9 +22,8 @@ Version 6.2.2:
 - Fixes player becoming invisible while playing pokeflute
 - Fixes displaced hat/hair in pokemarts
 - Flipped Snorlax angle
-
-
 \n
+
 Version 6.2.1:
 - Fixed PokeRadar going over UI
 - Fixed Hidden Abilities maps
