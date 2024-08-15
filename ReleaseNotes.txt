@@ -3,8 +3,11 @@ Version 6.2.3:
 - Adds missing egg sprites
 - Fixed Brock's battle transitions
 - Fixed wearable sprite offset and layering issues when auto scrolling the map
+- SS Anne Tile Fixes
+- Don't display gym rematch stats if you didn't do any
+- Fixes rare candies stats not displaying
+- Fixes town map crash on specific areas
 \n
-
 Version 6.2.2:
 - Fixed ability to fish while surfing
 - Fixes wrong backpack color on red clothes sprite
@@ -23,14 +26,12 @@ Version 6.2.2:
 - Fixes displaced hat/hair in pokemarts
 - Flipped Snorlax angle
 \n
-
 Version 6.2.1:
 - Fixed PokeRadar going over UI
 - Fixed Hidden Abilities maps
 - Fixes clothes resetting after loading savefile without a hat
 - Fixes broken regi ice/rock door
 \n
-
 Version 6.2.0:
 Player character	
 - Updated the player character's sprites
