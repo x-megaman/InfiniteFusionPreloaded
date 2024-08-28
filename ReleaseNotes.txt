@@ -7,6 +7,7 @@ Version 6.2.3:
 - Don't display gym rematch stats if you didn't do any
 - Fixes rare candies stats not displaying
 - Fixes town map crash on specific areas
+- Level caps now affect Hard Difficulty, but level caps still only work on Classic and Randomize mode, not Remix or Expert.
 \n
 Version 6.2.2:
 - Fixed ability to fish while surfing
