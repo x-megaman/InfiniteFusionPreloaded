@@ -4,7 +4,7 @@ GameVersion:6.2.3
 GameUpdate:false
 MonthlyMessage:9/1/24 - Sprite Pack 104 is out now! The game will auto install them for you, unless you are on preloaded.
 MonthlyConfig:false
-Notices:9/21 - The Sprite Repo is down for Everyone. Please be patient until we can resolve, no ETA atm.
+Notices:9/21 - The Sprite Repo is down for Everyone. Please use the Preloaded Zip in #downloads in Discord and Load into the App as a workaround.
 Holiday:false
 GameSize:690 MB
 CustomSpriteSize:160,692
