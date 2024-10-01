@@ -11,5 +11,7 @@ CustomSpriteSize:167,388
 PreloadedSize:~2.87 GB of 388,583
 Holiday:false
 InstallDown:true
+InstallDownMessage:The Sprite Server is Down. The only download that works with Sprites is a manual zip download. Click OK to redirect to those instructions to load into this App.
+InstallDownLink:https://docs.google.com/document/d/1CzIZSZC3g3PYytpOjX237DiVETD7Iflqfq9G8Rm-ylw/edit?usp=sharing
 Press Play to Begin! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
 
