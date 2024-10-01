@@ -3,3 +3,4 @@ CustomBaseValidation:470.png
 CustomBaseValidation2:469.png
 CustomSpriteValidation:470.6.png
 CustomSpritePreloadedValidation:470\\470.6.png 
+IndexedFolderValidation:487
