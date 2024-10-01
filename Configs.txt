@@ -2,7 +2,7 @@ ConfigVersion:1
 AppVersion:2.9.8.7
 GameVersion:6.2.3
 GameUpdate:false
-MonthlyMessage:9/1/24 - Sprite Pack 104 is out now! The game will auto install them for you, unless you are on preloaded.
+MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:https://docs.google.com/document/d/1ImPKtDan1LoPvVVM9Ss2S67nJIaims3tA7EWETe8YXA/edit?usp=sharing
 MonthlyConfig:false
 Notices:Press Play to Begin! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
