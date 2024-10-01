@@ -4,11 +4,12 @@ GameVersion:6.2.3
 GameUpdate:false
 MonthlyMessage:9/1/24 - Sprite Pack 104 is out now! The game will auto install them for you, unless you are on preloaded.
 MonthlyConfig:false
-Notices:9/23 - The Sprite Server is down for Everyone. Don't install sprites, it won't work. More info in #announcements in Discord.
+Notices:10/1 - The Sprite Server is down for Everyone. Use Settings and Enabled Preloaded to take you to our Guide to Fix Sprites Locally.
 Holiday:false
 GameSize:690 MB
 CustomSpriteSize:167,388
 PreloadedSize:~2.87 GB of 388,583
-Press Play to Begin! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
 Holiday:false
+InstallDown:true
+Press Play to Begin! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
 
