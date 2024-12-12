@@ -1,3 +1,7 @@
+Version 6.2.4:
+- Updated Sprite Repo to next link to try a possible solution, but needs more work.
+- Updated Custom Dex Entries.
+\n
 Version 6.2.3:
 - Fixed Ability Ball bugs and evolving a Pokémon with an HA keeps their HA now
 - Adds missing egg sprites
