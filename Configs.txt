@@ -1,5 +1,5 @@
 ConfigVersion:1
-AppVersion:3.0.2
+AppVersion:3.0.3
 GameVersion:6.2.4
 GameUpdate:false
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
