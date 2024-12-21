@@ -1,6 +1,6 @@
 ConfigVersion:1
 AppVersion:3.0.3
-GameVersion:6.2.4
+GameVersion:6.4.0
 GameUpdate:false
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:MonthlyLink
@@ -11,7 +11,7 @@ GameSize:690 MB
 CustomSpriteSize:167,388
 PreloadedSize:~2.87 GB of 388,583
 Holiday:false
-InstallDown:true
+InstallDown:false
 InstallDownMessage:The Sprite Server is Down. The only download that works with Sprites is a manual zip download. Click OK to redirect to those instructions to load into this App.
 InstallDownLink:InstallDownLink
 
