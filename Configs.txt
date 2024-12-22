@@ -5,7 +5,7 @@ GameUpdate:true
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:MonthlyLink
 MonthlyConfig:false
-Notices:Press Play to Begin! Report any issues with the App or Game in #tech-support from our Discord. Enjoy!
+Notices:Launcher support will be discontinued. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
 Holiday:false
 GameSize:690 MB
 CustomSpriteSize:167,388
