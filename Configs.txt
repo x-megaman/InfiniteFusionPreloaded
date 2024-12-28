@@ -1,7 +1,7 @@
 ConfigVersion:1
-AppVersion:3.0.5
+AppVersion:Launcher support will be discontinued. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
 GameVersion:6.4.1
-GameUpdate:true
+GameUpdate:false
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:MonthlyLink
 MonthlyConfig:false
