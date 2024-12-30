@@ -1,11 +1,11 @@
 ConfigVersion:1
-AppVersion:Launcher support will be discontinued. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
-GameVersion:6.4.1
-GameUpdate:false
+AppVersion:3.0.5
+GameVersion:6.4.3
+GameUpdate:true
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:MonthlyLink
 MonthlyConfig:false
-Notices:Launcher support will be discontinued. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
+Notices:This Launcher will be discontinued. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
 Holiday:false
 GameSize:690 MB
 CustomSpriteSize:167,388
@@ -14,4 +14,3 @@ Holiday:false
 InstallDown:false
 InstallDownMessage:The Sprite Server is Down. The only download that works with Sprites is a manual zip download. Click OK to redirect to those instructions to load into this App.
 InstallDownLink:InstallDownLink
-
