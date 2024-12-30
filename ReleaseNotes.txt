@@ -1,3 +1,125 @@
+Version 6.4.4:
+- Track dyed clothes individually now
+- Fixed issue with autogen dex entries
+- Fixes HMs getting randomized when random gym types are enabled https://discord.com/channels/302153478556352513/1320487098255413279
+- Fixes clothes/hat menu
+- Graphics fixes
+- Fixes always getting kicked out of celadon hideout after removing your uniform while inside https://discord.com/channels/302153478556352513/1320504962975006872
+- Typos and grammar mistakes
+- Fixes bug preventing game from downloading newest sprites from the repo (this is not the fix for manual importing)
+- Fixes issues with hotel quest rewards and negative count https://discord.com/channels/302153478556352513/1165193897954263150
+- Help Man NPC -> Fix game now gives back missed HMs
+- Fixed a crash when putting on hats if you have never put on clothes before
+- Fixed invisible Red Gyarados
+- Fixed some missing outfits
+- Fixed some typos
+
+Version 6.4.3:
+- Readds the old style autogen entries and uses official dex entries. 
+- Fixes type experts not removing randomized gym type: https://discord.com/channels/302153478556352513/1320505227455107183
+- Fixes Diancie Forcing player to release their Pokemon to keep it: https://discord.com/channels/302153478556352513/1320584084975779860
+
+Version 6.4.2:
+- Removed Auto Gen Pokedex Entries
+
+Version 6.4.1:
+- HA NPC Crashing: https://discord.com/channels/302153478556352513/1320420943767666872
+- Outfit Errors: https://discord.com/channels/302153478556352513/1320323048234029166
+- Trainer Rematches on Randomizer: https://discord.com/channels/302153478556352513/1320369399084879912
+- Map Related Crashes: https://discord.com/channels/302153478556352513/1320358434843131924
+- Relic Song not Transforming Meloetta: https://discord.com/channels/302153478556352513/1320266875581759488
+- Pinkan Island Crash: https://discord.com/channels/302153478556352513/1320146372892164187
+- Safari Zone Crash: https://discord.com/channels/302153478556352513/1320149940852494367
+- Android only Pokedex Crash - Must have Mobile turned on from in game settings (turn to PC, then back to Mobile to reset it): https://discord.com/channels/302153478556352513/1320151129673171014
+- Slowpoke Pinkan Crash - https://discord.com/channels/302153478556352513/1320160776148746241
+- Fusion Crash - https://discord.com/channels/302153478556352513/1320167505024647188
+
+Version 6.4.0:
+New Pokemon
+###################
+- Kommo-o line
+- Golisopod line
+- Fomantis line
+- Carbink
+- All generation 6 starters
+- Torkoal
+- Gourgeist line
+- Slurpuff line
+- Scrafty line
+- Ludicolo line
+- Minior
+- Diancie
+- Luvdisc
+- Fomantis can be encountered randomly when interacting with flowers
+- Lotad can be encountered randomly when walking or surfing over lilypads
+- Porygon can appear randomly when using the PC
+- Pumpkaboo can be encountered randomly when interracting with pumpkins at night
+-Reversed fusions growth rate priority: Easier growth rate now have priority
+-Added AI-generated Pokédex entries for fusions without a custom entry
+-Updated Remix mode teams (Thanks funkytomate)
+-Added a triple fusion of the Kanto starters
+ 
+Character customization
+###################
+- "Added various hats, clothes, hairstyles that the player can wear to change their appearance
+- 129 hats
+- 79 clothes
+- 66 hairstyles (4 base colors each)"
+- Hats and clothes can be purchased at Pokémarts or unlocked in various ways
+- Hairstyles can be changed and dyed at hotels
+- Unlocked hair and clothes carry over through new game plus
+- Added NPC to dye hats / clothes
+- Added NPC tp obtain specific outfits based on Pokémon
+- Added the ability to put hats on Pokémon
+- Added NPC selling random hat items in Goldenrod tunnel
+- Added customizable trainer cards
+ 
+Quests / Game events
+###################
+- Added the ability to join Team Rocket, along with several Team Rocket sidequests
+- Added Pinkan Island heist event
+- Added Magikarp fishing contest in Vermillion City
+- Added new quest on S.S. Anne
+- Added special event when interacting with shooting stars at observatory
+- Removed Bill's epilepsy porygon quest
+- Porygon now has a low chance of randomly appearing in the player's PC
+- Added special "type expert" npc battles that are scatteret throughout Kanto
+ 
+ 
+Misc. Gameplay
+###################
+- Battle Tower/Factory NPCs now use their proper graphics
+- Darkrai Quest now needs the Bedroom Key (Found in Goldenrod)
+- Removed karma requirement for Darkrai quest
+- Replaced Goldenrod radio quiz special prize by the Teleporter
+- Box Link is now obtained in Knot Island
+- Latias & Latios roaming encounters are now fused with each other.
+- Ghosts during Darkrai event now only spawn outdoors
+- Changed the way to skip the game's intro
+- Pokeballs no longer get randomized when randomizing items
+ 
+Maps
+###################
+- Added a Pokemon Center to Crimson City
+- Updated the layout of the S.S. Anne
+- Added a second floor to the Goldenrod Gallery showcasing spriter team flags
+- 
+UI
+###################
+- Updated the game's intro screen graphics (thanks doctormiawoo)
+- Skipping the game's intro is now done by pressing Ctrl during the intro
+- Increased fast text speed option's speed
+- Increased cursor speed in Town Map
+- Clicking empty spots in the town map now snaps the cursor to the nearest Fly spot
+- Added a prompt for registering registerable key items when obtaining them
+- Added option for displaying the opponent's Pokémon type in battles
+- 
+System
+###################
+- Sprites are now loaded from spritesheets instead of individual sprites
+- Saving the game now creates backup savefiles (10 newest are kept)
+- Various bugfixes
+
 Version 6.2.4:
 - Updated Sprite Repo to next link to try a possible solution, but needs more work.
 - Updated Custom Dex Entries.
@@ -38,14 +160,14 @@ Version 6.2.1:
 - Fixes broken regi ice/rock door
 \n
 Version 6.2.0:
-Player character	
+Player character 
 - Updated the player character's sprites
 - Updated the surfing base and dive sprites - now changes depending on the Pokémon using the move
 - Added a special sprite for when the player is surfing using the Surfboard instead of Surf
 - Made it possible to set the player's skin color and hair color at the start of a game
 - Improved the underwater effect while diving
 \n
-Gameplay	
+Gameplay 
 - Abilities are now determined by the Pokemon themselves rather than the species when fusing
 - - ie, You now get to pick between the abilities of the two Pokémon you're fusing, no matter the fusion order
 - Added an additional fight on top of the Dept. Store during the Necrozma quest
@@ -56,17 +178,17 @@ Gameplay
 - Added Overheat TM in Mt. Ember
 - Teleporting to Mt. Silver now takes you to the base of the mountain instead of the start of the road
 \n
-Town map	
+Town map 
 - Updated the town map graphics
 - The player's current location is now displayed on the town map or when using Fly/Teleport
 - Johto and Sevii Islands are now hidden from the Town Map until first visited
 \n
-Randomizer	
+Randomizer 
 - Added an option to exclude legendaries from regular encounters randomizer
 - Adds option for randomized starters to always be 1st-stage Pokémon
 - Wild legendaries always randomize into legendaries in randomizer
 \n
-System	
+System 
 - Made it possible to set the difficulty from the options menu.
 - The difficulty can no longer only be changed down. The difficulty displayed in the Hall of Fame is the lowest difficulty that has been selected during the playthrough.
 - Difficulty and game mode are now displayed on the Continue screen
@@ -76,7 +198,7 @@ System
 - Added on option to set the device that you're playing on in the options menu which disables unsupported features on mobile
 - Implemented "temp" sprites: Sprites that are only considered main sprites for as long as there are no others custom sprites (internal)
 \n
-Bug fixes	
+Bug fixes 
 - Fixed pokeradar info being obscured in dark caves
 - Fixed issue with Necrozma quest not completing
 - Fixed issue causing some legendaries to not respawn
