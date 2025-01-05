@@ -1,38 +1,49 @@
+Version 6.4.5
+- Fixed Importing Sprites (type `?tag importsp` in #ask-a-bot  for more info)
+- Fixed Type Experts saying you beat them although you haven't battled them
+- Fixed if a custom sprite is missing, defaults to autogen
+- Updated sprite sheets that come with the game to the latest sprite pack (plus some extra)
+- Sprite sheets resized and using sprites of 96x96 in them.
+- Adds Ash's hat in new nest in Viridian Forest
+
 Version 6.4.4:
 - Track dyed clothes individually now
 - Fixed issue with autogen dex entries
-- Fixes HMs getting randomized when random gym types are enabled https://discord.com/channels/302153478556352513/1320487098255413279
+- Fixes HMs getting randomized when random gym types are enabled
 - Fixes clothes/hat menu
 - Graphics fixes
-- Fixes always getting kicked out of celadon hideout after removing your uniform while inside https://discord.com/channels/302153478556352513/1320504962975006872
+- Fixes always getting kicked out of celadon hideout after removing your uniform while inside
 - Typos and grammar mistakes
 - Fixes bug preventing game from downloading newest sprites from the repo (this is not the fix for manual importing)
-- Fixes issues with hotel quest rewards and negative count https://discord.com/channels/302153478556352513/1165193897954263150
+- Fixes issues with hotel quest rewards and negative count 
 - Help Man NPC -> Fix game now gives back missed HMs
 - Fixed a crash when putting on hats if you have never put on clothes before
 - Fixed invisible Red Gyarados
 - Fixed some missing outfits
 - Fixed some typos
+- Fixes Dojo crash in Saffron
+- Fixes the text of negative quest counter
+- Daycare lady crash
 
 Version 6.4.3:
 - Readds the old style autogen entries and uses official dex entries. 
-- Fixes type experts not removing randomized gym type: https://discord.com/channels/302153478556352513/1320505227455107183
-- Fixes Diancie Forcing player to release their Pokemon to keep it: https://discord.com/channels/302153478556352513/1320584084975779860
+- Fixes type experts not removing randomized gym type: https
+- Fixes Diancie Forcing player to release their Pokemon to keep it
 
 Version 6.4.2:
 - Removed Auto Gen Pokedex Entries
 
 Version 6.4.1:
-- HA NPC Crashing: https://discord.com/channels/302153478556352513/1320420943767666872
-- Outfit Errors: https://discord.com/channels/302153478556352513/1320323048234029166
-- Trainer Rematches on Randomizer: https://discord.com/channels/302153478556352513/1320369399084879912
-- Map Related Crashes: https://discord.com/channels/302153478556352513/1320358434843131924
-- Relic Song not Transforming Meloetta: https://discord.com/channels/302153478556352513/1320266875581759488
-- Pinkan Island Crash: https://discord.com/channels/302153478556352513/1320146372892164187
-- Safari Zone Crash: https://discord.com/channels/302153478556352513/1320149940852494367
-- Android only Pokedex Crash - Must have Mobile turned on from in game settings (turn to PC, then back to Mobile to reset it): https://discord.com/channels/302153478556352513/1320151129673171014
-- Slowpoke Pinkan Crash - https://discord.com/channels/302153478556352513/1320160776148746241
-- Fusion Crash - https://discord.com/channels/302153478556352513/1320167505024647188
+- HA NPC Crashing
+- Outfit Errors
+- Trainer Rematches on Randomizer
+- Map Related Crashes
+- Relic Song not Transforming Meloetta
+- Pinkan Island Crash
+- Safari Zone Crash
+- Android only Pokedex Crash - Must have Mobile turned on from in game settings (turn to PC, then back to Mobile to reset it)
+- Slowpoke Pinkan Crash
+- Fusion Crash
 
 Version 6.4.0:
 New Pokemon
