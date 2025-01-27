@@ -1,10 +1,20 @@
 Version 6.4.5
-- Fixed Importing Sprites (type `?tag importsp` in #ask-a-bot  for more info)
+- Fixed Importing Sprites (type `?tag importsp` in #ask-a-bot  for more info)
 - Fixed Type Experts saying you beat them although you haven't battled them
-- Fixed if a custom sprite is missing, defaults to autogen
 - Updated sprite sheets that come with the game to the latest sprite pack (plus some extra)
 - Sprite sheets resized and using sprites of 96x96 in them.
 - Adds Ash's hat in new nest in Viridian Forest
+- Mobile: Setting Device to Mobile now skips Elite 4 credits to fix soft lock.
+- Fixed Art Gallery Crash
+- Temp Fix: Makes it not possible to put on hats on triple fusions to avoid crashing for now.
+- Normal type expert fix
+- Fixes team not being recovered after replaying pinkan island from rocket side
+- Fixed some Pokemon Base sprites
+- Makes Magikarp contest easier the first time
+- Fixed Scraggy not being found via the Pokeradar
+- Fixed Pinkan Island Troll Rock Softlock
+- Added more Custom Dex Entries
+- Fixed missing Hall of Fame Music
 
 Version 6.4.4:
 - Track dyed clothes individually now

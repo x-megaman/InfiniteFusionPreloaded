@@ -10,18 +10,9 @@
 - Installing the game using the light weight installer
 - Updating the game using the light weight installer
 - Will let you know when a new game update is released
+- Game changelog
+- Easy shortcuts to Discord, Reddit, Calc, and the Wiki.
 <br />
-
-**SPRITES**
-- Installing the Preloaded Sprites
-- Installing the Custom Sprites Only
-- Installing the Auto Gen Sprites Only
-- Will let you know when new custom and auto gen sprites are released that you haven't installed yet
-<br />
-
-**Preloaded**
-- Go to settings to Enabled Preloaded
-- The checkbox will validate your sprites before enabling the checkbox to see if you have the correct setup.
 
 **Current Platform Limitations:**
 <br />

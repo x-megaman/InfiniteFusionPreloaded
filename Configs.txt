@@ -1,11 +1,11 @@
 ConfigVersion:1
-AppVersion:3.0.5
+AppVersion:1.0.0
 GameVersion:6.4.5
-GameUpdate:true
+GameUpdate:false
 MonthlyMessage:10/1/24 - Sprite Pack 104 is out now!
 MonthlyLink:MonthlyLink
 MonthlyConfig:false
-Notices:This Launcher will be redesigned. We suggest switching to the Lightweight Installer. Use ?tag appfix in Discord for more Info.
+Notices:Report any issues with the Launcher or Game in #tech-support from our Discord. Enjoy!
 Holiday:false
 GameSize:690 MB
 CustomSpriteSize:167,388
