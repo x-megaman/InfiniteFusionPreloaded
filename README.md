@@ -2,7 +2,7 @@
 - Developed by: megaman [Tech Manager for Pokemon Infinite Fusion]
 
 **Complete Guide + Videos**:
-- [Google Doc](https://docs.google.com/document/d/1sU-xZYw5cWMRmNyNbaFqfJZodaahZYs5Bv5jqnnqLeE/edit#heading=h.b67hha4nbt5i)
+- [Google Doc](https://docs.google.com/document/d/16SFlTtsgPEy-YKCBvuWuffymI6Rl0emyq-jcU9PYB5k/edit?tab=t.0#heading=h.b67hha4nbt5i)
 
 **Features**:
 <br />
